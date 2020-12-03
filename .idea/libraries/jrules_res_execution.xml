@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jrules-res-execution">
+    <CLASSES>
+      <root url="jar://C:/Program Files/IBM/ODM892/executionserver/lib/jrules-res-execution.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
